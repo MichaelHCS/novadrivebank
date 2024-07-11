@@ -1,0 +1,7 @@
+config.yaml
+meu_modelo.keras
+objects/*
+!objects/.gitkeep
+__pycache__
+.vscode
+novadrivebank
